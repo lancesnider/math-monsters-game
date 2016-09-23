@@ -1,6 +1,6 @@
 # Math Monsters for iPad
 
-Download it for free from the [App Store](https://itunes.apple.com/us/app/math-monsters/id499455175?ls=1&mt=8).
+Download it for free from the [App Store](https://itunes.apple.com/us/app/math-monsters/id499455175?ls=1&mt=8) or play the [online version](http://aprendagames.com/games/math-monsters/flash-game/). 
 
 ![Math Monsters Gif](github/maingif.gif)
 
