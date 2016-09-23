@@ -9,6 +9,7 @@
 
 ### Screenshots
 
+![Math Monsters Gif](github/maingif.gif)
 ![Math Monsters](github/math-game-interface.jpg)
 ![Math Monsters Main Menu](github/main-menu.jpg)
 ![Math Monsters](github/top-scores.jpg)
