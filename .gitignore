@@ -1,2 +1,3 @@
 Plugins/
 *.meta
+.DS_Store
