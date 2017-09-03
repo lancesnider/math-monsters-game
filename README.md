@@ -5,7 +5,7 @@ Download it for free from the [App Store](https://itunes.apple.com/us/app/math-m
 ![Math Monsters Gif](github/maingif.gif)
 
 ## About The Game 
-Math Monsters is an educational math game built in Unity with JavaScript. It has almost 7000 downloads on the App Store and is being used by schools across the country. The game is pretty simple, but the psychology behind the countdown timer is what makes it special. Each time you answer a question correctly, you get a little more time. This creates a building sense of urgency to be quick and accurate. I’ve seen kids squeal as the timer hangs around the 2 second mark and jump out of their seats when the time runs out. Tell me the last time you saw a kid get that excited about arithmetic. :) 
+Math Monsters is an educational math game built in Unity with JavaScript. It has over 120,000 downloads on the App Store and is being used by schools across the country. The game is pretty simple, but the psychology behind the countdown timer is what makes it special. Each time you answer a question correctly, you get a little more time. This creates a building sense of urgency to be quick and accurate. I’ve seen kids squeal as the timer hangs around the 2 second mark and jump out of their seats when the time runs out. Tell me the last time you saw a kid get that excited about arithmetic. :) 
 
 ## Screenshots
 
